@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 /demoapp/.vs/demoapp
 /demoapp/demoapp/obj
+/.vs
+/ConsoleApp1/bin/Debug/net6.0
+/ConsoleApp1/obj
